@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">HeartWear</string>
+    <string name="title_activity_nfc_ativity">NfcAtivity</string>
+
+    <string name="senderId">602495643346</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="myNameCard">My Info</string>
+    <string name="tapPhonesToShare">Touch Phones together to share your name card via NFC</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- feedback -->
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+
+
+    <!--- false positive alert dialog -->
+
+    <string name="title">Attention!</string>
+    <string name="message">We have detected abnormal heart rate. Is everything OK?</string>
+    <string name="emergency">No</string>
+    <string name="noEmergency">Yes</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_dialog_activty">DialogActivty</string>
 </resources>
